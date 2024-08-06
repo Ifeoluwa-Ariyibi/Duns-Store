@@ -1,4 +1,4 @@
-# Duns-Store Data Analysis
+# Duns Store Data Analysis
 
 ## Table of Contents
 - [Introduction](#Introduction)
